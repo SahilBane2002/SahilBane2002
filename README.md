@@ -40,8 +40,6 @@ Currently at **SafeLink Innovations**, where I architect ISO 26262-compliant too
 | **[City Layout Optimization](https://github.com/SahilBane2002)** | Constraint-based A* pathfinding across 5,000+ scenarios | Python, Algorithms |
 | **[Phishing Detection](https://github.com/SahilBane2002)** | ML phishing classifier with PSO hyperparameter tuning | Scikit-Learn, XGBoost |
 
-> 📌 *Replace each link with your actual repo URL before publishing*
-
 ---
 
 ## 🛠️ Skills & Tools
