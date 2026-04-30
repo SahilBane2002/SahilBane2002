@@ -15,7 +15,7 @@
 Open to **Summer/Fall 2026 internships** & **full-time roles from Jan 2027**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sahilbane-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilbane)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sahilbane.com-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://sahilbane.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sahilbane.com-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://sahilbane.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-bane.s@northeastern.edu-6366F1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bane.s@northeastern.edu)
 
 </div>
