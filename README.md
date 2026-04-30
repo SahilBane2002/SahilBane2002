@@ -33,7 +33,7 @@ Currently at **SafeLink Innovations**, architecting ISO 26262-compliant tooling 
 ## 💼 Experience
 
 <details>
-<summary><strong>SafeLink Innovations — Software Engineer Intern</strong> &nbsp;·&nbsp; Jan 2026 – May 2026 &nbsp;·&nbsp; Seattle, WA</summary>
+<summary><strong>SafeLink Innovations — Software Engineer Intern</strong> &nbsp;·&nbsp; Jan 2026 – Aug 2026 &nbsp;·&nbsp; Seattle, WA</summary>
 
 <br/>
 
